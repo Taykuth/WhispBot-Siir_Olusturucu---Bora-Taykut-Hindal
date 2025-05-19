@@ -1,0 +1,1 @@
+uygulama dist klasörünün içindeki main_tkinter'dır.
